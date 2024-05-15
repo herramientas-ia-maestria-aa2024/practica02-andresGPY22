@@ -9,5 +9,10 @@
 3. El servidor de MlFlow deberá ejecutarse en el puerto 9090
 4. Cambiar las configuraciones del algoritmo LogisticRegression.
 
+### Actividades
+1. Andres Jimenez
+2. Roberto Valladolid
+3. Jonathan Medía
+
 
 #### Proyecto con fines educativos
